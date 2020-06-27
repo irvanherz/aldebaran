@@ -2,6 +2,6 @@ package models
 
 var conn = 0
 
-func testee() {
-	return
+func Testee() {
+	print("Tests")
 }
